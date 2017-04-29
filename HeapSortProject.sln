@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeapSortProject", "HeapSortProject\HeapSortProject.csproj", "{6F8FECC2-DCA2-46F6-B87B-F39DA056EE18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLib", "MyLib\MyLib.csproj", "{9A30E67E-B4DC-4F4C-AF96-EB63EC1DA374}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F8FECC2-DCA2-46F6-B87B-F39DA056EE18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F8FECC2-DCA2-46F6-B87B-F39DA056EE18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F8FECC2-DCA2-46F6-B87B-F39DA056EE18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F8FECC2-DCA2-46F6-B87B-F39DA056EE18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A30E67E-B4DC-4F4C-AF96-EB63EC1DA374}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A30E67E-B4DC-4F4C-AF96-EB63EC1DA374}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A30E67E-B4DC-4F4C-AF96-EB63EC1DA374}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A30E67E-B4DC-4F4C-AF96-EB63EC1DA374}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
